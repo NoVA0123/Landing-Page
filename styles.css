@@ -1,22 +1,26 @@
 .Padding{
 
+    display: flex;
+    color:  #F9FAF8;
     padding: 20px;
     background-color: #1F2937;
+    color: white;
+    align-items: center;
 
 }
 
 .header{
 
-    text-align: left;
 
 }
 
 .link{
 
-    text-align: right;
-
+    display: flex;
+    margin-left: auto;
+    padding: 0px 100px 0px 0px;
 }
-
+/*
 .two{
 
     text-align: right;
@@ -27,4 +31,4 @@
 
     text-align: right;
 
-}
+}*/
