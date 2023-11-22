@@ -1,57 +1,96 @@
 .Padding{
 
     display: flex;
-    color:  #F9FAF8;
-    padding: 10px 100px 10px 100px;
-    background-color: #1F2937;
-    align-items: center;
+    color: white;
+    background-color: #1F2937
 
 }
 
 .header{
 
+    display: flex;
+    align: left;
+    margin: auto;
 
 }
 
-.link{
+.header h2{
 
-    margin-left: auto;
+    align:center;
+
+}
+
+.link {
+
+    display: flex;
+    align: right;
+    margin: auto;
+
 }
 
 .link a{
     
+    display: flex;
     text-decoration: none;
-    color: #E5E7EB;
-    font-size: 10px;
+    margin: auto;
+    align: center;
+    color: white;
     padding: 10px;
 }
 
-.website{
-    
-    display: flex;
-    color:  #F9FAF8;
-    padding: 100px 100px 10px 100px;
-    background-color: #1F2937;
-    align-items: left;
-    flex-direction: column;
-    justify-content: center;
-    padding: 90px;
-}
 
-.website h1{
 
-    display: flex;
-    font-size: 30px;
-    font-weight: bold;
-    margin: 0;
-}
 
-.website p{
 
-    flex-basis: 400px;
-    display: flex;
-    flex-direction: column;
-    text-align: left;
-    margin-right: 50px;
 
-}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
